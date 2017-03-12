@@ -1,0 +1,43 @@
+ 
+### FREQ_RELATION_NO_TYPE: Analyze OSM Relations without type= 
+poland-latest.osm.pbf ( 2017-03-09T21:43:02Z ) http://download.geofabrik.de/europe/poland-updates [Rv:0.1b]
+ 
+|  count  |  osm tag combinations 
+|  -----: | :---------------------------
+|    250  |  , 
+|     48  |  name=, 
+|     13  |  landuse=, 
+|      8  |  building=, 
+|      3  |  natural=, 
+|      3  |  name=, railway=, railway:ref=, 
+|      3  |  name=, place=, source=, 
+|      3  |  name=, landuse=, 
+|      3  |  name=, building=, 
+|      3  |  junction=, area:highway=, 
+|      3  |  amenity=, 
+|      2  |  name=, power=, voltage=, operator=, 
+|      2  |  name=, natural=, 
+|      2  |  building=, multipolygon=, 
+|      1  |  water=, natural=, source:user=, source:geometry=, 
+|      1  |  source=, landuse=, 
+|      1  |  name=, wikidata=, wikipedia=, 
+|      1  |  name=, train=, railway=, operator=, 
+|      1  |  name=, route=, website=, 
+|      1  |  name=, public_transport=, 
+|      1  |  name=, power=, voltage=, 
+|      1  |  name=, place=, start_date=, 
+|      1  |  name=, name:de=, wikidata=, wikipedia=, 
+|      1  |  name=, name:de=, ref:prng=, 
+|      1  |  name=, entrance=, 
+|      1  |  name=, amenity=, tourism=, 
+|      1  |  landuse=, building=, 
+|      1  |  building=, roof:shape=, building:part=, 
+|      1  |  building=, building:levels=, 
+|      1  |  building=, addr:city=, addr:street=, 
+|      1  |  boundary=, 
+|      1  |  barrier=, name=, 
+|      1  |  addr:place=, addr:housenumber=, 
+|      1  |  addr:country=, 
+|      1  |  addr:city=, addr:street=, source:addr=, addr:postcode=, addr:city:simc=, addr:housenumber=, addr:street:sym_ul=, 
+|      1  |  addr:city=, 
+ 

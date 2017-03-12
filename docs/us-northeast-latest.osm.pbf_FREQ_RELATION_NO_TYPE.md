@@ -1,0 +1,41 @@
+ 
+### FREQ_RELATION_NO_TYPE: Analyze OSM Relations without type= 
+us-northeast-latest.osm.pbf ( 2017-03-09T21:43:02Z ) http://download.geofabrik.de/north-america/us-northeast-updates [Rv:0.1b]
+ 
+|  count  |  osm tag combinations 
+|  -----: | :---------------------------
+|    165  |  , 
+|     24  |  name=, 
+|      8  |  natural=, 
+|      6  |  building=, 
+|      2  |  url=, operator=, public_transport=, 
+|      2  |  url=, name=, operator=, public_transport=, 
+|      2  |  name=, water=, natural=, 
+|      2  |  name=, highway=, junction=, 
+|      2  |  name=, building=, 
+|      2  |  landuse=, 
+|      1  |  url=, name=, landuse=, leisure=, operator=, 
+|      1  |  source=, natural=, 
+|      1  |  source=, amenity=, 
+|      1  |  source=, 
+|      1  |  shop=, website=, building=, addr:city=, addr:state=, addr:street=, addr:postcode=, addr:housenumber=, 
+|      1  |  role=, 
+|      1  |  natural=, wetland=, 
+|      1  |  name=, source=, 
+|      1  |  name=, route=, source=, highway=, junction=, maxspeed=, 
+|      1  |  name=, railway=, 
+|      1  |  name=, place=, 
+|      1  |  name=, leisure=, boundary=, wikidata=, wikipedia=, protect_class=, protection_title=, 
+|      1  |  name=, landuse=, 
+|      1  |  name=, is_in=, office=, building=, addr:city=, addr:street=, addr:postcode=, addr:housenumber=, 
+|      1  |  name=, height=, nycdoitt:bin=, building:part=, 
+|      1  |  name=, height=, addr:street=, nycdoitt:bin=, addr:postcode=, building:part=, addr:housenumber=, 
+|      1  |  name=, FIXME=, 
+|      1  |  name=, addr:city=, addr:state=, addr:street=, addr:postcode=, addr:housenumber=, 
+|      1  |  golf=, landuse=, 
+|      1  |  FIXME=, 
+|      1  |  club=, name=, sport=, 
+|      1  |  area=, water=, natural=, 
+|      1  |  area=, name=, oneway=, piste:type=, piste:difficulty=, 
+|      1  |  amenity=, 
+ 

@@ -1,0 +1,40 @@
+ 
+### FREQ: Analyze OSM Relations with role=outer without primary OSM keys ( last_mod year + version + osm keys)
+serbia-latest.osm.pbf ( 2017-03-09T21:43:02Z ) http://download.geofabrik.de/europe/serbia-updates [Rv:0.1b]
+ 
+|  count  |  last_mod_year, version osm tag combinations 
+|  -----: | :--------------------------------------
+|     37  |  y2010 v1 Ttype=multipolygon, 
+|     29  |  y2012 v1 Ttype=multipolygon, 
+|     18  |  y2016 v1 Ttype=multipolygon, 
+|     15  |  y2013 v1 Ttype=multipolygon, 
+|     13  |  y2011 v1 Ttype=multipolygon, 
+|     11  |  y2010 v1 Ttype=multipolygon, area_ha=, 
+|      9  |  y2014 v1 Ttype=multipolygon, 
+|      5  |  y2009 v1 Ttype=multipolygon, 
+|      4  |  y2016 v2 Ttype=multipolygon, 
+|      4  |  y2016 v1 Tarea=, type=multipolygon, 
+|      3  |  y2016 v3 Ttype=multipolygon, 
+|      3  |  y2014 v2 Ttype=multipolygon, 
+|      2  |  y2014 v3 Ttype=multipolygon, 
+|      2  |  y2012 v3 Ttype=multipolygon, 
+|      1  |  y2017 v8 Ttype=multipolygon, fixme=, source=, comment=, CLC:code=, CLC:year=, source:ro=, CLC:shapeId=, CLC:waterway=, 
+|      1  |  y2017 v241 Tname=, type=collection, 
+|      1  |  y2017 v186 Tname=, type=collection, 
+|      1  |  y2016 v4 T, 
+|      1  |  y2016 v3 Ttype=multipolygon, area_ha=, 
+|      1  |  y2016 v2 Tntp=, type=multipolygon, level=, ekatte=, 
+|      1  |  y2015 v3 Ttype=multipolygon, 
+|      1  |  y2015 v1 Ttype=multipolygon, 
+|      1  |  y2014 v4 Ttype=multipolygon, 
+|      1  |  y2014 v2 Tname=, type=multipolygon, name:en=, name:sr=, name:sr-Latn=, 
+|      1  |  y2014 v1 Tname=, type=multipolygon, 
+|      1  |  y2014 v1 Tarea=, 
+|      1  |  y2013 v3 Ttype=multipolygon, 
+|      1  |  y2013 v2 Ttype=multipolygon, 
+|      1  |  y2013 v18 Tnote=, type=multipolygon, website=, 
+|      1  |  y2012 v5 Ttype=multipolygon, 
+|      1  |  y2012 v2 Ttype=multipolygon, 
+|      1  |  y2011 v2 Ttype=multipolygon, 
+|      1  |  y2010 v3 Ttype=multipolygon, 
+ 

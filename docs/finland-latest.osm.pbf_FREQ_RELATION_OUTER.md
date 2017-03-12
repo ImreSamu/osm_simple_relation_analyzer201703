@@ -1,0 +1,41 @@
+ 
+### FREQ: Analyze OSM Relations with role=outer without primary OSM keys 
+finland-latest.osm.pbf ( 2017-03-09T21:43:02Z ) http://download.geofabrik.de/europe/finland-updates [Rv:0.1b]
+ 
+|  count  |  osm tag combinations 
+|  -----: | :---------------------------
+|   4576  |  type=multipolygon, 
+|     82  |  name=, type=multipolygon, 
+|     61  |  type=multipolygon, mml:class=, 
+|     45  |  type=multipolygon, source=, 
+|     21  |  type=multipolygon, created_by=, 
+|     17  |  type=building, 
+|      6  |  type=multipolygon, surface=, 
+|      5  |  type=multipolygon, _code_06_=, 
+|      5  |  note=, type=multipolygon, 
+|      5  |  area=, type=multipolygon, 
+|      2  |  type=multipolygon, fence_type=, 
+|      2  |  type=multipolygon, ATTR2=, ATTR3=, RYHMA=, KORARV=, KORTAR=, LUOKKA=, SUUNTA=, TASTAR=, VERSUH=, KORKEUS=, AINLAHDE=, KARTOGLK=, KOHDEOSO=, SIIRT_DX=, SIIRT_DY=, KULKUTAPA=, ALUEJAKOON=, SYNTYHETKI=, 
+|      2  |  name=, type=multipolygon, name:fi=, 
+|      2  |  area=, name=, type=multipolygon, 
+|      2  |  , 
+|      1  |  type=multipolygon, website=, 
+|      1  |  type=multipolygon, source=, designation=, 
+|      1  |  type=multipolygon, snowmobile=, 
+|      1  |  type=multipolygon, _RYHMA_=, _SUUNTA_=, _TASTAR_=, _VERSUH_=, mml:class=, _SIIRT_DX_=, _SIIRT_DY_=, _SYNTYHETKI_=, 
+|      1  |  type=multipolygon, checkedfor:natural_gas_marker=, checkedfor:heatpipeline_manholes=, 
+|      1  |  type=boundary, 
+|      1  |  source=, type=multipolygon, 
+|      1  |  note=, type=multipolygon, layer=, comment=, website=, snowmobile=, motor_vehicle=, 
+|      1  |  name=, type=multipolygon, wikidata=, wikipedia=, 
+|      1  |  name=, type=multipolygon, source=, wikidata=, wikipedia=, start_date=, 
+|      1  |  name=, type=multipolygon, access=, 
+|      1  |  name=, type=multilinestring, 
+|      1  |  name=, name:en=, name:fi=, type=multipolygon, 
+|      1  |  metadata:almost_completed=, type=multipolygon, 
+|      1  |  fake=, name=, name:de=, name:en=, name:lt=, name:ru=, note=, type=multipolygon, 
+|      1  |  ele=, type=multipolygon, 
+|      1  |  area=, type=multipolygon, source=, 
+|      1  |  area=, 
+|      1  |  AINLAHDE=, ALUEJAKOON=, ATTR2=, ATTR3=, KARTOGLK=, KOHDEOSO=, KORARV=, KORKEUS=, KORTAR=, KULKUTAPA=, LUOKKA=, RYHMA=, SIIRT_DX=, SIIRT_DY=, SUUNTA=, SYNTYHETKI=, TASTAR=, type=multipolygon, VERSUH=, 
+ 

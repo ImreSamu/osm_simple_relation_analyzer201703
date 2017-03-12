@@ -1,0 +1,42 @@
+ 
+### FREQ: Analyze OSM Relations with role=outer without primary OSM keys ( last_mod year + version + osm keys)
+bosnia-herzegovina-latest.osm.pbf ( 2017-03-09T21:43:02Z ) http://download.geofabrik.de/europe/bosnia-herzegovina-updates [Rv:0.1b]
+ 
+|  count  |  last_mod_year, version osm tag combinations 
+|  -----: | :--------------------------------------
+|    169  |  y2012 v1 Ttype=multipolygon, 
+|     43  |  y2010 v1 Ttype=multipolygon, 
+|     25  |  y2016 v1 Ttype=multipolygon, 
+|     11  |  y2012 v2 Ttype=multipolygon, 
+|      7  |  y2013 v1 Ttype=multipolygon, 
+|      6  |  y2016 v2 Ttype=multipolygon, 
+|      5  |  y2015 v1 Ttype=multipolygon, 
+|      5  |  y2014 v2 Ttype=multipolygon, 
+|      4  |  y2015 v2 Ttype=multipolygon, 
+|      4  |  y2012 v3 Ttype=multipolygon, 
+|      3  |  y2016 v3 Ttype=multipolygon, 
+|      3  |  y2014 v1 Ttype=multipolygon, 
+|      3  |  y2013 v2 Ttype=multipolygon, 
+|      2  |  y2016 v5 Ttype=multipolygon, 
+|      2  |  y2015 v3 Ttype=multipolygon, 
+|      2  |  y2013 v6 Ttype=multipolygon, 
+|      2  |  y2013 v4 Ttype=multipolygon, 
+|      2  |  y2009 v1 Ttype=multipolygon, created_by=, 
+|      1  |  y2017 v5 Ttype=multipolygon, 
+|      1  |  y2017 v3 Ttype=multipolygon, 
+|      1  |  y2017 v1 Ttype=multipolygon, 
+|      1  |  y2017 v11 Ttype=multipolygon, 
+|      1  |  y2016 v4 Tnote=, type=multipolygon, cables=, source=, 
+|      1  |  y2016 v2 Ttype=multipolygon, source=, 
+|      1  |  y2016 v2 Ttype=multipolygon, FIXME=, source=, 
+|      1  |  y2016 v2 Tnote=, type=multipolygon, fixme=, source=, 
+|      1  |  y2016 v23 Tnote=, type=multipolygon, source=, leaf_type=, 
+|      1  |  y2015 v5 Tnote=, type=multipolygon, source=, leaf_type=, 
+|      1  |  y2015 v3 Tname=, type=multipolygon, name:es=, 
+|      1  |  y2015 v2 Tname=, type=multipolygon, 
+|      1  |  y2014 v5 Ttype=multipolygon, 
+|      1  |  y2014 v4 Tnote=, type=multipolygon, 
+|      1  |  y2013 v3 Ttype=multipolygon, 
+|      1  |  y2013 v2 Tnote=, type=multipolygon, 
+|      1  |  y2009 v1 Ttype=multipolygon, 
+ 
